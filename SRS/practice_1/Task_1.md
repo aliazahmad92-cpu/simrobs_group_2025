@@ -2,7 +2,7 @@
 
 3. Look in the "Integrators.ipynb" file and use these functions for your task.
 4. Solve analytically the ODE in the form of:
-$$ a \cdot \ddot{x} + b \cdot \dot{x} + c \cdot x = d $$
+$ a \cdot \ddot{x} + b \cdot \dot{x} + c \cdot x = d $
 6. From the list take coefficients of your ODE and solve them with three integrators: Explicit/Implicit Euler, Rung-Kutta methods.
 7. Compare performance of these methods, dicsuss and conclude your thoughts in the .pdf report.
 8. Name of the report should be "ISU_YourName_task1.pdf"
